@@ -23,8 +23,9 @@ Papers about real-time researches for autonomous driving systems
 [ML4AD'23] [Data-parallel Real-Time Perception System with Partial GPU Acceleration for Autonomous Driving](https://ml4ad.github.io/files/papers2023/Data-parallel%20Real-Time%20Perception%20System%20with%20Partial%20GPU%20Acceleration%20for%20Autonomous%20Driving.pdf) </br>
 [RTAS'23] [Work In Progress: A New Task Model for Real-Time DNNs over GPU](https://ieeexplore.ieee.org/document/10155716) </br>
 [RTSS'20] [On Removing Algorithmic Priority Inversion from Mission-critical Machine Inference Pipelines](https://ieeexplore.ieee.org/document/9355507) </br>
+[RTAS'22] [Self-Cueing Real-Time Attention Scheduling in Criticality-Aware Visual Machine Perception](https://ieeexplore.ieee.org/document/9804626) </br>
 [RTAS'22] [DNN-SAM: Split-and-Merge DNN Execution for Real-Time Object Detection](https://ieeexplore.ieee.org/document/9804671) </br>
-
+[ICCAD'21] [Automated Runtime-Aware Scheduling for Multi-Tenant DNN Inference on GPU](https://ieeexplore.ieee.org/document/9643501) </br>
 Real-Time DNN (not only focus on ADS) related research papers are listed in [Real-Time DNN](will be published soon)
 
 ## E2E ADS Study 
@@ -40,6 +41,7 @@ Real-Time DNN (not only focus on ADS) related research papers are listed in [Rea
 [RTSS'20] [R-TOD: Real-time object detector with minimized end-to-end delay for autonomous driving](https://arxiv.org/abs/2011.06372) </br>
 [DAC'22] [EcoFusion: energy-aware adaptive sensor fusion for efficient autonomous vehicle perception](https://dl.acm.org/doi/abs/10.1145/3489517.3530489) </br>
 [RTSS'22] [RT-MOT: Confidence-Aware Real-Time Scheduling Framework for Multi-Object Tracking Tasks](https://ieeexplore.ieee.org/document/9984748) </br>
+[ICDCS'22] [Multi-View Scheduling of Onboard Live Video Analytics to Minimize Frame Processing Latency](https://ieeexplore.ieee.org/document/9912287) </br>
 [ML4AD'19] [End-to-End Delay Analysis and Optimization of Object Detection Module for Autonomous Driving](https://ml4ad.github.io/files/papers/End-to-End%20Delay%20Analysis%20and%20Optimization%20of%20Object%20Detection%20Module%20for%20Autonomous%20Driving.pdf) </br>
 [RTAS'20] [Real-Time Object Detection System with Multi-Path Neural Networks](https://ieeexplore.ieee.org/abstract/document/9113124) </br>
 [MobiSys'22] [AutoCast: Scalable Infrastructure-less Cooperative Perception for Distributed Collaborative Driving](https://dl.acm.org/doi/pdf/10.1145/3498361.3538925) </br>
