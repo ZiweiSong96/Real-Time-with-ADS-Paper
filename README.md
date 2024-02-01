@@ -62,4 +62,4 @@ Real-Time DNN (not only focus on ADS) related research papers are listed in [Rea
 
 Thanks a lot for Dr. Liangkai Liu (https://sites.google.com/view/liangkai/home) and his awesome paper list [Awesome-CAV-System-Paper](https://github.com/Torreskai0722/Awesome-CAV-System-Paper) although he doesn't know me.
 
-This paper list is collected by members of Real-Time System Group of Memory-System-and-IOT-Lab [M Lab](https://mlab.hk) from City University of Hong Kong.
+This paper list is collected by members of Real-Time System Group of Memory-System-and-IOT-Lab (M Lab)(https://mlab.hk) from City University of Hong Kong.
