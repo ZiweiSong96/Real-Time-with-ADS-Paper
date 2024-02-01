@@ -54,8 +54,8 @@ Real-Time DNN (not only focus on ADS) related research papers are listed in [Rea
 [RTSS'22] [End-To-End Timing Analysis in ROS2](https://ieeexplore.ieee.org/document/9984789) </br>
 
 ## Case Study Solution
-[Autoware] [ADS Framework](https://github.com/autowarefoundation/autoware) </br>
-[AWSIM] [Simulator](https://tier4.github.io/AWSIM) </br>
+[Autoware] [ADS Framework] (https://github.com/autowarefoundation/autoware/) </br>
+[AWSIM] [Simulator] (https://tier4.github.io/AWSIM/) </br>
 
 
 ## Acknowledgments
