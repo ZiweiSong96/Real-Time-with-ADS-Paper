@@ -2,14 +2,12 @@
 Papers about real-time researches for autonomous driving systems
 
 **Target venues**: 
- - Robotics Conferences (*IROS/ICRA*); 
- - Real-time System Conferences (*RTSS/RTAS/RTCSA*); 
+ - Real-time System Conferences (*RTSS/RTAS/ECRTS/RTCSA*); 
  - Computer Architecture Conferences (*ISCA/MICRO/HPCA/ASPLOS*);
  - Operating System Conferences (*OSDI/SOSP*); 
  - Computing System Conferences (*MobiSys/EuroSys/SEC/ICDCS/ICCAD/ICCD/DAC/DATE*)
  - Computer Network Conferences (*SIGCOMM/NSDI/Mobicom/Infocom*); 
- - Related journals (*IEEE TPDS/IEEE TCAD/IEEE IOTJ*);
- - So many others.
+ - So many others (*CVPR/ML4AD/ICRA*).
 ## Real-Time Analysis
 [RTCSA'23] [Safety-Aware Implementation of Control Tasks via Scheduling with Period Boosting and Compressing](https://ieeexplore.ieee.org/abstract/document/10296312) </br>
 [RTAS'23] [Compositional Mixed-Criticality Systems with Multiple Executions and Resource-Budgets Model](https://ieeexplore.ieee.org/document/10155712) </br>
@@ -56,28 +54,12 @@ Real-Time DNN (not only focus on ADS) related research papers are listed in [Rea
 [RTSS'22] [End-To-End Timing Analysis in ROS2](https://ieeexplore.ieee.org/document/9984789) </br>
 
 ## Case Study Solution
-[Autoware] [website](https://github.com/autowarefoundation/autoware) </br>
+[Autoware] [ADS Framework](https://github.com/autowarefoundation/autoware) </br>
 [AWSIM] [Simulator] (https://tier4.github.io/AWSIM/) </br>
 
 
+## Acknowledgments
 
+Thanks a lot for Dr. Liangkai Liu (https://sites.google.com/view/liangkai/home) and his awesome paper list [Awesome-CAV-System-Paper](https://github.com/Torreskai0722/Awesome-CAV-System-Paper) although he doesn't know me.
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Application
-
-
-
-
-
-Thanks a lot for Dr. Liangkai Liu (https://sites.google.com/view/liangkai/home) and his awesome paper list [Awesome-CAV-System-Paper](https://github.com/Torreskai0722/Awesome-CAV-System-Paper)
+This paper list is collected by members of Real-Time System Group in Memory System and IOT Lab [M Lab](https://mlab.hk/) from City University of Hong Kong.
